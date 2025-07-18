@@ -1,4 +1,4 @@
-# projet1-intership-6-10
+# projet classifer html et image (Stagiaire de CERES)
 
 Projet 1 extrait html et image:'code projet1 stage.ipynb'
 
