@@ -34,7 +34,7 @@ Use Google Search API in Python via SerpApi: https://serpapi.com
 
 2. Store them in a file.
 
-3. Extract the <img> tags
+3. Extract the img tags
 
 4. Identify the main image with panoptic
 
@@ -42,7 +42,9 @@ Use Google Search API in Python via SerpApi: https://serpapi.com
 Project 1.2 – Alt‑Text Extraction Script: code_projet1_2.py
 
 1. Parse HTML with BeautifulSoup
+
 2. Collect every alt attribute
+
 3. Store each HTML tag’s alt text for later use.
 
 Next Steps
