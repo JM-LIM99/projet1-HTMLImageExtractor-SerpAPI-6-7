@@ -29,21 +29,24 @@ https://ehne.fr/fr
 Project 1 – HTML & Image Extraction
 Notebook: code_projet1_stage.ipynb
 
-Use Google Search API in Python
-– via SerpApi: https://serpapi.com
-Fetch the results in Python
-– Store them in a file.
-Extract the <img> tags
-Identify the main image
-– Use TinEye for reverse‐image lookup.
+Use Google Search API in Python via SerpApi: https://serpapi.com
+1. Fetch the results in Python
 
-Project 1.2 – Alt‑Text Extraction
-Script: code_projet1_2.py
+2. Store them in a file.
 
-Parse HTML with BeautifulSoup
-Collect every alt attribute
-– Store each HTML tag’s alt text for later use.
+3. Extract the <img> tags
+
+4. Identify the main image with panoptic
+
+
+Project 1.2 – Alt‑Text Extraction Script: code_projet1_2.py
+
+1. Parse HTML with BeautifulSoup
+2. Collect every alt attribute
+3. Store each HTML tag’s alt text for later use.
+
 Next Steps
+
 To extract the HTML snippet containing the principal image, I’ll leverage TinEye.
 
 임정민
