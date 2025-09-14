@@ -1,5 +1,8 @@
 # projet classifer html et image (Stagiaire de CERES)
 
+L'object du projet:
+L'object de ce projet est l'création d'un pipeline par Mots clés d'image sur Google. Il s`agit d'extraire et de classifier le contenu html ainsi que les images associées aux mot de clés, afin de détecter des cas potentiels de désinformation visuelle en line avec article.pdf.
+
 Projet 1 extrait html et image:'code projet1 stage.ipynb'
 
 1. utilisation google API sur python : https://serpapi.com
@@ -25,8 +28,13 @@ Pour extraire le code HTML incluant l’image principale, j’utiliserai TinEye.
 https://tineye.com
 https://ehne.fr/fr
 
+------------------------------English----------------------------------
+
+Project objective:
+The objective of this project is to create a pipeline for retrieving images on Google using keywords. It consists in extracting and classifying the HTML content as well as the images associated with these keywords, in order to detect potential cases of visual disinformation, in connection with article.pdf.
 
 Project 1 – HTML & Image Extraction
+
 Notebook: code_projet1_stage.ipynb
 
 Use Google Search API in Python via SerpApi: https://serpapi.com
